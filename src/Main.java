@@ -6,6 +6,6 @@ public class Main {
 
         Demo a= new Demo(2,4);
 
-        System.out.println(a.biggerNum());
+
     }
 }
